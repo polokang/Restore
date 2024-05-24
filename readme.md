@@ -10,3 +10,9 @@
  - Kestrel is a cross-platform server that can run on Linux, Windows, and Mac, whereas IIS is Windows-specific.
  - Kestrel is a web server that is built into .NET Core and can be used to host ASP.NET Core applications.
  - IIS is a web server that is installed on Windows and can be used to host ASP.NET Core applications.
+
+# Swagger
+
+# Install & Run
+    `dotnet new sln`
+    `dotnet new webapi -o API --use-controllers`
